@@ -1,2 +1,1 @@
-printf project
-team work
+readme file
